@@ -1,11 +1,8 @@
-<h1>Installation and Run</h1>
+## Installation and Run
 
-<ul>
-<li>Clone project</li>
-<li>npm i</li>
-<li>Set your API TMDB Token in /API/TMDBApi.js file</li>
-<li>react-native run-ios or react-native run-android</li>
+* Clone project
+* `npm i`
+* Set your API TMDB Token in /API/TMDBApi.js file
+* `react-native run-ios` or `react-native run-android`
 
-</ul>
-
-Check TMDB API for more informations about querying films.
+Check [TMDB API](https://www.themoviedb.org/documentation/api) for more informations about querying films.
